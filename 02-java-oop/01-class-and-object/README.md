@@ -13,6 +13,7 @@
 7. `this` Keyword
 8. Constructor Overloading
 9. Method Overloading
+10. Math Class
 
 
 ## Language
