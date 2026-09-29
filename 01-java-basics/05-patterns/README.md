@@ -9,6 +9,7 @@
 5. Number Triangle Pattern
 6. Inverted Number Triangle Pattern
 7. Odd Number Triangle Pattern
+8. Alphabet Square Pattern
 
 ## Language
 
