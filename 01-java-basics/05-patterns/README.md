@@ -13,6 +13,7 @@
 9. Alphabet Number Triangle Pattern
 10. Star Plus Pattern
 11. Hollow Rectangle Pattern
+12. Star Cross Pattern
 
 ## Language
 
