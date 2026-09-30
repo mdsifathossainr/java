@@ -15,6 +15,7 @@
 11. Hollow Rectangle Pattern
 12. Star Cross Pattern
 13. Floyd's Triangle Pattern
+14. Binary Triangle Pattern
 
 ## Language
 
