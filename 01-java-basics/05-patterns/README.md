@@ -18,7 +18,7 @@
 14. Binary Triangle Pattern
 15. Right Aligned Star Triangle
 16. Star Pyramid
-
+17. Palindromic Number Pyramid
 ## Language
 
 Java
