@@ -20,6 +20,7 @@
 16. Star Pyramid
 17. Palindromic Number Pyramid
 18. Star Diamond
+19. Pascal's Triangle
 
 ## Language
 
