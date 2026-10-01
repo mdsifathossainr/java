@@ -17,6 +17,7 @@
 13. Floyd's Triangle Pattern
 14. Binary Triangle Pattern
 15. Right Aligned Star Triangle
+16. Star Pyramid
 
 ## Language
 
