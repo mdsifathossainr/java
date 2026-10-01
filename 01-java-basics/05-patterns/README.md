@@ -19,6 +19,8 @@
 15. Right Aligned Star Triangle
 16. Star Pyramid
 17. Palindromic Number Pyramid
+18. Star Diamond
+
 ## Language
 
 Java
