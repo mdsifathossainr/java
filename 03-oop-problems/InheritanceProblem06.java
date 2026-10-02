@@ -14,7 +14,7 @@ class Cheetah extends Animal {
     }
 }
 
-public class Problem06 {
+public class InheritanceProblem06{
     public static void main(String[] args) {
         Cheetah c = new Cheetah();
         c.move();

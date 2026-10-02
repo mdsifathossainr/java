@@ -107,7 +107,7 @@ class Programmer extends Employee {
     }
 }
 
-public class Problem10 {
+public class InheritanceProblem10 {
     public static void main(String[] args) {
 
         Manager manager = new Manager("Sakib", "Dhaka", 60000);

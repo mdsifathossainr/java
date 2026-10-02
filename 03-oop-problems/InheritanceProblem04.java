@@ -25,7 +25,7 @@ class HRManager extends Employee {
     }
 }
 
-public class Problem04 {
+public class InheritanceProblem04 {
     public static void main(String[] args) {
 
         HRManager hr = new HRManager();

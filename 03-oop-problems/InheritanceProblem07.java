@@ -30,7 +30,7 @@ class Employee extends Person {
     }
 }
 
-public class Problem07 {
+public class InheritanceProblem07 {
     public static void main(String[] args) {
         Employee e = new Employee();
 
