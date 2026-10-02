@@ -37,7 +37,7 @@ class Circle extends Shape {
     }
 }
 
-public class Problem8 {
+public class Problem08 {
     public static void main(String[] args) {
 
         Circle c = new Circle(5);

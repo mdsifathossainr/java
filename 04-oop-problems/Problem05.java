@@ -32,7 +32,7 @@ class SavingsAccount extends BankAccount {
     }
 }
 
-public class Problem5 {
+public class Problem05 {
     public static void main(String[] args) {
 
         SavingsAccount account = new SavingsAccount();

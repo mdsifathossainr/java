@@ -16,7 +16,7 @@ class Car extends Vehicle {
     }
 }
 
-public class Problem2 {
+public class Problem02 {
     public static void main(String[] args) {
         Car c = new Car();
         c.drive();

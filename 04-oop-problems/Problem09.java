@@ -79,7 +79,7 @@ class Motorcycle extends Vehicle {
     }
 }
 
-public class Problem9 {
+public class Problem09 {
     public static void main(String[] args) {
 
         Car car = new Car("Toyota", "Corolla", 2024, "Petrol");

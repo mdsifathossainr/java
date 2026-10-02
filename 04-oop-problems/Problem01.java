@@ -16,7 +16,7 @@ class Cat extends Animal {
     }
 }
 
-public class Problem1 {
+public class Problem01 {
     public static void main(String[] args) {
         Cat c = new Cat();
         c.makeSound();
