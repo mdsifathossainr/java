@@ -25,6 +25,7 @@
 21. Number Palindrome Diamond
 22. Alphabet Palindrome Diamond
 23. Number Palindrome Diamond 2
+24. Alphabet Palindrome Diamond 2
 
 ## Language
 
