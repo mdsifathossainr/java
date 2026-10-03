@@ -23,6 +23,7 @@
 19. Pascal's Triangle
 20. Inverted Pascal's Triangle
 21. Number Palindrome Diamond
+22. Alphabet Palindrome Diamond
 
 ## Language
 
